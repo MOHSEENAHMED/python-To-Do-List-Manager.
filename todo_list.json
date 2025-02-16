@@ -1,0 +1,14 @@
+{
+    "tasks": [
+        {
+            "description": "Do the homework",
+            "complete": false,
+            "completed": true
+        },
+        {
+            "description": "Attend the birthday party",
+            "complete": false,
+            "completed": true
+        }
+    ]
+}
